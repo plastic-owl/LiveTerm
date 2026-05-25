@@ -1,14 +1,14 @@
 {
   "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
+  "title": "OwlOS",
   "name": "John Doe",
-  "ascii": "liveterm",
+  "ascii": "OwlOS",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "twitter": "plowsludge",
+    "instragram": "plowsludge"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
+  "email": "plasticowlband@email.com",
+  "ps1_hostname": "plasticowl",
   "ps1_username": "visitor",
   "repo": "https://github.com/Cveinnt/LiveTerm",
   "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
@@ -18,7 +18,7 @@
   },
   "colors": {
     "light": {
-      "background": "#FBF1C9",
+      "background": "#000000",
       "foreground": "#3C3836",
       "yellow": "#D79921",
       "green": "#98971A",
